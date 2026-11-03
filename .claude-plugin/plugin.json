@@ -1,0 +1,9 @@
+{
+  "name": "design-eng-skills",
+  "description": "Skills for designers and engineers: animation, motion review, UI polish, mobile web, Swift and more (fork of emilkowalski/skills).",
+  "version": "1.0.0",
+  "author": { "name": "Emil Kowalski" },
+  "homepage": "https://github.com/gaelomar1502-boop/skills",
+  "repository": "https://github.com/gaelomar1502-boop/skills",
+  "license": "MIT"
+}

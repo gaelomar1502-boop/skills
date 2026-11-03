@@ -27,6 +27,19 @@ You can stay up to date with my skills here:
 npx skills@latest add emilkowalski/skills
 ```
 
+### Claude Code (plugin)
+
+```
+/plugin marketplace add gaelomar1502-boop/skills
+/plugin install design-eng-skills@gaelomar-skills
+```
+
+Skills appear namespaced, e.g. `/design-eng-skills:animate`.
+
+### Claude.ai / Claude Desktop
+
+Settings → Capabilities → Skills → upload one `.zip` per skill folder (e.g. zip `skills/animate/`).
+
 ## Why use it?
 
 Agents don’t have great taste

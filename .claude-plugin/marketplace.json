@@ -1,0 +1,11 @@
+{
+  "name": "gaelomar-skills",
+  "owner": { "name": "gaelomar1502-boop" },
+  "plugins": [
+    {
+      "name": "design-eng-skills",
+      "source": "./",
+      "description": "Skills for designers and engineers: animation, motion review, UI polish, mobile web, Swift and more."
+    }
+  ]
+}
